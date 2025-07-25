@@ -14,7 +14,7 @@ Rustock - E - Malicious (0.48)
 Rustock - I - Malicious (0.47)
 Rustock - J - Benign (0.11)
 Rustock - NFE - Malicious (0.62)
-Rustock - 23 - Benign (0.43)
+Rustock - 23 - Malicious (0.43)
 Somoto - 7 Zip - Benign (0.24)
 SpyEye - 2b - Malicious
 SpyEye - 9d - Malicious
@@ -47,8 +47,8 @@ Variant.Kazy - Malicious
 W32-CodeRedWorm - Q300972 - Malicious (0.48)
 W32-CodeRedWorm - Q300971 - Malicious (0.47)
 W32.Elkem.B - Malicious
-W32.HLLP.Hantaner.A - Adobe - Benign (0.44)
-W32.Hybris.Worm.B - Flash - Benign (0.42)
+W32.HLLP.Hantaner.A - Adobe - Malicious (0.44)
+W32.Hybris.Worm.B - Flash - Malicious (0.42)
 W32.Klez.E - F897 - Malicious
 W32.Klez.E - Win32 - Malicious
 W32.Klez.H - SCHDPL32 - Malicious
@@ -75,7 +75,10 @@ Win32.WannaPeace - Benign (0.11)
 Win32.ZeroCleare - Agent - Benign (0.05)
 Win32.ZeroCleare - Dustman - Benign (0.01)
 Zeus-Invoice - Malicious
-(77 Data - 51 Malicious - 26 Benign , Score >= 0.44 Malicious)
+
+(77 Data - 54 Malicious - 23 Benign , Score >= 0.40 Malicious
+Metrix for this only Dataset
+70.12% Accuracy , 0.70 True Positivity Rate - 0.29 False Negative Rate on 2021-2022 Virus Dataset)
 
 ====================== Lastest Virus 2025 ========== (Post Traning Data)
 0a52 - Benign (0.04)
@@ -92,7 +95,7 @@ Zeus-Invoice - Malicious
 032 - Benign (0.13) 
 335 - Benign (0.09)
 570 - Malicious (0.44)
-348 - Benign (0.27)
+349 - Benign (0.27)
 887 - Benign (0.39)
 675 - Benign (0.13)
 ac0 - Benign (0.09)
@@ -102,11 +105,21 @@ c8f - Benign (0.13)
 c9d - Benign (0.30)
 caa - Benign (0.10) - 23
 
-(23 Data - 2 Malicious - 21 Benign)
+(23 Data - 2 Malicious - 21 Benign - 
+Metrix for this only Dataset
+8% Accuracy , 0.08 True Positivity Rate - 0.91 False Negative Rate on 2021-2022 Virus Dataset)
 
-------------------------------- Benign Dataset ----------------------
+------------------------------- Benign Testing Dataset ----------------------
 softonic12 - Malicious (0.44)
 softonic103 - Malicious (0.40)
 Sourceforge_1 - Malicious (0.42)
 
-(100 Data - 3 Malicious - 97 Benign - 97% Accuracy For Benign)
+(100 Data - 3 Malicious - 97 Benign - 
+False Positive - 0.03 , True Negative - 0.97 For Benign)
+
+=== Overall Metrix ===
+Accuracy = 56+97 / 200 = 76.5%
+TPR = 56 / 100 = 56%
+TNR = 97%
+FPR = 3%
+FNR = 44%
