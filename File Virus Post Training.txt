@@ -1,0 +1,112 @@
+Artemis - Benign 
+Dyre-Dump - Malicious
+Dyre-Original - Malicious
+Kelihous-Dumped - Malicious (0.48)
+Kelihous-Apps - Malicious
+Kelihous-Fake Intel - Malicious (0.46)
+Neurevt - MiniConfig - Malicious
+Neurevt - Update Check - Benign
+Nivdort - Benign (0.34)
+Proteus - Gchrome - Benign (0.31)
+Rombertik - Malicious
+Rustock - C - Malicious (0.48)
+Rustock - E - Malicious (0.48)
+Rustock - I - Malicious (0.47)
+Rustock - J - Benign (0.11)
+Rustock - NFE - Malicious (0.62)
+Rustock - 23 - Benign (0.43)
+Somoto - 7 Zip - Benign (0.24)
+SpyEye - 2b - Malicious
+SpyEye - 9d - Malicious
+SpyEye - 97 - Malicious
+SpyEye - 59 - Malicious 
+SpyEye - 97 - Malicious
+SpyEye - 77 - Malicious
+SpyEye - 84 - Malicious
+SpyEye - d6 - Malicious
+SpyEye - ef - Malicious
+Surtr - 2dll - Malicious
+Surtr - DELXT - Malicious
+Surtr - DW20 - Malicious
+Surtr - hv64 - Malicious
+Surtr - 2dll - Malicious
+Surtr - ydrHRP - Malicious
+Trojan.Asprox - d000.dll - Malicious (0.46)
+Trojan.Asprox - Walmart - Malicious
+Trojan.Asprox - 8000.dll - Malicious (0.49)
+Trojan.Asprox - USAirways - Malicious
+Trojan.Blidi - hostr - Malicious
+Trojan.Destover - signed - Benign (0.37)
+Trojan.Dropper - 798_abroad - Benign (0.18)
+Trojan.Kovter - PDFXCview - Malicious (0.49)
+Trojan.LoadMoney - abba - Benign (0.17)
+Trojan.NSIS - raffle - Benign (0.16)
+Trojan.WIN32.Bechhiro - Benign (0.23)
+Trojan.WIN32.Duqu - win32- Malicious (0.49)
+Variant.Kazy - Malicious
+W32-CodeRedWorm - Q300972 - Malicious (0.48)
+W32-CodeRedWorm - Q300971 - Malicious (0.47)
+W32.Elkem.B - Malicious
+W32.HLLP.Hantaner.A - Adobe - Benign (0.44)
+W32.Hybris.Worm.B - Flash - Benign (0.42)
+W32.Klez.E - F897 - Malicious
+W32.Klez.E - Win32 - Malicious
+W32.Klez.H - SCHDPL32 - Malicious
+W32.Klez.H - Win32 - Malicious
+W32.Mydoom - f-mydoom - Benign (0.32)
+W32.Mydoom - strip-girl - Malicious (0.44)
+W32.Nimda.A - FIX - Benign (0.06)
+W32.Nimda.A - Slide - Benign (0.14)
+W32.Nimda.E - sample - Benign (0.37)
+W32.Slam - Benign (0.09)
+W32.Swen - Malicious
+Win32.AgentTesla - Benign (0.28)
+Win32.Alina - Malicious
+Win32.Cutwail - loader-1 - Benign (0.38)
+Win32.Cutwail - counter - Malicious 
+Win32.DarkTequilla - Malicious
+Win32.GravityRat - Benign (0.08)
+Win32.InfoStealer - Malicious
+Win32.LuckyCat - Benign (0.30)
+Win32.Turla - decrypted_inj_services_win32 - Malicious (0.49)
+Win32.Turla - decrypted_inj_snake_Win32- Malicious
+Win32.Turla - decrypted_rkctl_Win32- Malicious 
+Win32.WannaPeace - Benign (0.11)
+Win32.ZeroCleare - Agent - Benign (0.05)
+Win32.ZeroCleare - Dustman - Benign (0.01)
+Zeus-Invoice - Malicious
+(77 Data - 51 Malicious - 26 Benign , Score >= 0.44 Malicious)
+
+====================== Lastest Virus 2025 ========== (Post Traning Data)
+0a52 - Benign (0.04)
+0cd - Malicious
+2bc - Benign (0.17)
+5ad - Benign (0.10)
+6ad - Benign (0.11)
+7b1 - Benign (0.03) 
+7e3 - Benign (0.08)
+7f4 - Benign (0.26)
+8c9 - Benign (0.30)
+9d6 - Benign (0.09)
+90f - Benign (0.14)
+032 - Benign (0.13) 
+335 - Benign (0.09)
+570 - Malicious (0.44)
+348 - Benign (0.27)
+887 - Benign (0.39)
+675 - Benign (0.13)
+ac0 - Benign (0.09)
+af4 - Benign (0.08)
+c89 - Benign (0.09)
+c8f - Benign (0.13)
+c9d - Benign (0.30)
+caa - Benign (0.10) - 23
+
+(23 Data - 2 Malicious - 21 Benign)
+
+------------------------------- Benign Dataset ----------------------
+softonic12 - Malicious (0.44)
+softonic103 - Malicious (0.40)
+Sourceforge_1 - Malicious (0.42)
+
+(100 Data - 3 Malicious - 97 Benign - 97% Accuracy For Benign)
